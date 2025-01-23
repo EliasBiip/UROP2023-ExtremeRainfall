@@ -1,4 +1,4 @@
-# UROP2023-ExtremeRainfall
+# UROP2023-ExtremeRainfall-eliasdisplay
 The fianl result of the UROP research under the supervison of Dr. Parsun Ray at ICL in Aug. 2023.
 
 This is the result of the UROP team, including me, at ICL. HansonS37 is the original team member that responsible for providing this summary of our codes in his original repository. This repository is a copy of his with a sole purpose of display. 
