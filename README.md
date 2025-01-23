@@ -63,3 +63,5 @@ We use the time series calculated in 4b_timeseries.ipynb and then find the dates
 4d4e_final.ipynb  
 We obtain the data of wind speed. We use the same way to calculate anomalies. We first calculate the anomalies of wind speed of local maximum dates and plot them to obtain the Rossby-wave-like pattern in fig 4d. Then, we plot calculate the anomalies of wind speed of days that are three days later than local maximum dates to obtain fig 4e. 
 
+UROP_Final_report.pdf
+The PDF of the final written report, including all the info of the project, converted from Latex.
